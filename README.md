@@ -1,11 +1,8 @@
 <h1 align="left">Hi 👋, I'm Yurii Dobrovolskii</h1>
-<h3 align="left">A passionate frontend developer from Russian Federation</h3>
+<h3 align="left">Frontend developer</h3>
 
 - 🌱 I’m currently learning **Vue3, Nuxt3**
-
-- 👨‍💻 All information available at [https://ydobrov.ru/](https://ydobrov.ru/)
-
-- 📫 How to reach me **ydobrovolskii@mail.ru**
+- 📫 How to reach me **yuriidobrovolskii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
