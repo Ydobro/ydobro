@@ -33,3 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+<hr>
+
+![Github stats](https://github-readme-stats-nine-puce-38.vercel.app/api?username=ydobro&theme=dracula&show_icons=true&count_private=true&bg_color=30,16222A,3A6073&title_color=fff&text_color=fff&hide=stars,issues)
