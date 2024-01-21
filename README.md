@@ -36,4 +36,4 @@
 
 <hr>
 
-![Github stats](https://github-readme-stats-nine-puce-38.vercel.app/api?username=ydobro&theme=dracula&show_icons=true&count_private=true&bg_color=30,16222A,3A6073&title_color=fff&text_color=fff&hide=stars,issues)
+![Github stats](https://github-readme-stats-pi-olive-70.vercel.app/api?username=ydobro&theme=dracula&show_icons=true&count_private=true&bg_color=30,16222A,3A6073&title_color=fff&text_color=fff&hide=stars,issues)
